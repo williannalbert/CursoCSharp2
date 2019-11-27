@@ -21,7 +21,7 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine(estaChovendo);
 
             //de zero a 256
-            byte idade = 45;
+            byte idade = 46;
             Console.WriteLine(idade);
             
             //NÚMEROS INTEIROS

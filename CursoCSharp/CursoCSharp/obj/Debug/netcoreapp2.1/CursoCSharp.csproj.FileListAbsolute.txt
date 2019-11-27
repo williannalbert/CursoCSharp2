@@ -31,3 +31,13 @@ C:\Users\suporte1\Source\Repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\C
 C:\Users\suporte1\Source\Repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
 C:\Users\suporte1\Source\Repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
 C:\Users\suporte1\Source\Repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\PICHAU\Source\Repos\CursoCSharp2\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb

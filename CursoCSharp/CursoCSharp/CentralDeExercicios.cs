@@ -43,7 +43,7 @@ namespace CursoCSharp {
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Ocorreu um erro: {0}", e.Message);
                 Console.ResetColor();
-
+                  
                 Console.WriteLine(e.StackTrace);
             }
         }
