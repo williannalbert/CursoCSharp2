@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CursoCSharp",
-    "\\CursoCSharp\\CursoCSharp"
+    "\\CursoCSharp\\CursoCSharp",
+    "\\CursoCSharp\\CursoCSharp\\Fundamentos"
   ],
-  "SelectedNode": "\\CursoCSharp\\CursoCSharp\\CursoCSharp.sln",
+  "SelectedNode": "\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
   "PreviewInSolutionExplorer": false
 }

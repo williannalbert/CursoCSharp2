@@ -17,6 +17,7 @@ namespace CursoCSharp.Colecoes
             {
                 new Produto("Camisa", 29.90),
                 new Produto("Calça", 99.90),
+                new Produto ("Blusa", 150.9), 
                 new Produto ("Blusa", 150.9)
             };
 
