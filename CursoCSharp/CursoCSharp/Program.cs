@@ -52,7 +52,7 @@ namespace CursoCSharp {
                 { "ColeçõesList - Coleções", ColecoesList.Executar},
                 { "ColeçõesArrayList - Coleções", ColecoesArrayList.Executar},
                 { "ColeçõesSet - Coleções", ColecoesSet.Executar},
-                { "Igualdade - Coleções", Igualdade.Executar},
+                { "Igualdade - Coleções ", Igualdade.Executar},
                 //{ "ColeçõesQueue - Coleções", ColecoesQueue.Executar},
 
             });
